@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xml:lang="en-US">
+    <topic id="topic_yvp_yxb_flb">
+        <title>Terminology</title>
+        <body>
+            <section id="1">
+                <note type="other" othertype="definition">The File Manager is where you manage files
+                    including reference material and segment preview images.</note>
+                <note type="other" othertype="domain">Software</note>
+                <p><term xml:lang="en-US">File Manager</term></p>
+                <p><term xml:lang="es-ES">Administrador de archivos</term></p>
+                <p><term xml:lang="fr-FR">Gestionnaire de fichiers</term></p>
+                <p><term xml:lang="ja-JP">ファイル管理</term></p>
+                <p><term xml:lang="pt-PT">Gerenciador de arquivos</term></p>
+            </section>
+            <section id="2">
+                <p><term xml:lang="en-US">character counter</term></p>
+                <p><term xml:lang="es-ES">contador de caracteres</term></p>
+            </section>
+            <section id="3">
+                <p><term xml:lang="en-US">context menu</term></p>
+                <p><term xml:lang="es-ES">menú de contexto</term></p>
+            </section>
+            <section id="4">
+                <p><term xml:lang="en-US">docked panel</term></p>
+                <p><term xml:lang="es-ES">panel acoplado</term></p>
+            </section>
+            <section id="5">
+                <p><term xml:lang="en-US">QA check</term></p>
+                <p><term xml:lang="es-ES">control de calidad</term></p>
+            </section>
+            <section id="6">
+                <p><term xml:lang="en-US">status bar</term></p>
+                <p><term xml:lang="es-ES">barra de progreso</term></p>
+            </section>
+            <section id="7">
+                <p><term xml:lang="en-US">task overview screen</term></p>
+                <p><term xml:lang="es-ES">pantalla de resumen de tareas</term></p>
+            </section>
+            <section id="8">
+                <p><term xml:lang="en-US">translation editor</term></p>
+                <p><term xml:lang="es-ES">editor de traducciones</term></p>
+            </section>
+        </body>
+    </topic>
+</dita>

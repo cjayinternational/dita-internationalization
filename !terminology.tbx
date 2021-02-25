@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX" xml:lang="en-US">
+   <martifHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Terminology</title>
+         </titleStmt>
+         <sourceDesc>
+            <p>TBX transformation from DITA</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p type="XCSURI">schema.xcs</p>
+      </encodingDesc>
+   </martifHeader>
+   <text>
+      <body>
+         <termEntry id="1">
+            <descrip type="definition">The File Manager is where you manage files including reference material and segment preview images.</descrip>
+            <descrip type="domain">Software</descrip>
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-1">File Manager</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-1">Administrador de archivos</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="fr-FR">
+               <tig>
+                  <term id="fr-FR-1">Gestionnaire de fichiers</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="ja-JP">
+               <tig>
+                  <term id="ja-JP-1">ファイル管理</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="pt-PT">
+               <tig>
+                  <term id="pt-PT-1">Gerenciador de arquivos</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="2">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-2">character counter</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-2">contador de caracteres</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="3">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-3">context menu</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-3">menú de contexto</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="4">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-4">docked panel</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-4">panel acoplado</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="5">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-5">QA check</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-5">control de calidad</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="6">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-6">status bar</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-6">barra de progreso</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="7">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-7">task overview screen</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-7">pantalla de resumen de tareas</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry id="8">
+            <langSet xml:lang="en-US">
+               <tig>
+                  <term id="en-US-8">translation editor</term>
+               </tig>
+            </langSet>
+            <langSet xml:lang="es-ES">
+               <tig>
+                  <term id="es-ES-8">editor de traducciones</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </body>
+   </text>
+</martif>

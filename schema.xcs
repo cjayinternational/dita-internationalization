@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TBXXCS SYSTEM "tbxxcsdtd.dtd">
+<TBXXCS name="master" version="0.4" lang="en">
+   <header>
+      <title>TBX XCS file</title>
+   </header>
+   <languages>
+      <langInfo>
+         <langCode>en-US</langCode>
+         <langName>English (United States)</langName>
+      </langInfo>
+      <langInfo>
+         <langCode>de-DE</langCode>
+         <langName>German (Germany)</langName>
+      </langInfo>
+      <langInfo>
+         <langCode>es-ES</langCode>
+         <langName>Spanish (Spain)</langName>
+      </langInfo>
+      <langInfo>
+         <langCode>fr-FR</langCode>
+         <langName>French (France)</langName>
+      </langInfo>
+      <langInfo>
+         <langCode>pt-PT</langCode>
+         <langName>Portuguese (Portugal)</langName>
+      </langInfo>
+      <langInfo>
+         <langCode>ja-JP</langCode>
+         <langName>Japanese</langName>
+      </langInfo>
+   </languages>
+   <datCatSet>
+      <descripSpec name="Creator" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="xDate_CreateTime" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="Subject" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="Client" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="Project" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="ImageCaption" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <xrefSpec name="xImage_Image" datcatId="">
+         <contents />
+      </xrefSpec>
+      <descripSpec name="definition" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="domain" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>termEntry</levels>
+      </descripSpec>
+      <descripSpec name="CaseSense" datcatId="">
+         <contents datatype="picklist">Insensitive Near Strict</contents>
+         <levels>term</levels>
+      </descripSpec>
+      <descripSpec name="xBool_Forbidden" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>term</levels>
+      </descripSpec>
+      <descripSpec name="PartialTreshold" datcatId="">
+         <contents datatype="picklist">Any Custom Half None</contents>
+         <levels>term</levels>
+      </descripSpec>
+      <descripSpec name="xIntegerVector_PrefixBoundaries" datcatId="">
+         <contents datatype="plainText"/>
+         <levels>term</levels>
+      </descripSpec>
+   </datCatSet>
+</TBXXCS>
